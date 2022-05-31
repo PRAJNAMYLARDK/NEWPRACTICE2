@@ -1,7 +1,4 @@
 package com.vtiger.CampaignsTest;
-
-
-	
 	import org.testng.annotations.Test;
 
 import com.sdet34l1.genericutility.BaseClass;
